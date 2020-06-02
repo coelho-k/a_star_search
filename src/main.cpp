@@ -55,7 +55,7 @@ int main(int argc, const char **argv)
     
     // Initializing the start and end points
     float start_x, start_y, end_x, end_y;
-    std::cout << "Enter the start and end points: startx, starty, endx, endy" << "\n";
+    std::cout << "Enter the start and end points: startx, starty, endx, endy separated by spaces" << "\n";
     std::cin >> start_x >> start_y >> end_x >> end_y;
 
     // Build Model.
